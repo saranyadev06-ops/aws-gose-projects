@@ -16,3 +16,4 @@ __pycache__/
 
 # Environment
 .env
+terraform.exe
